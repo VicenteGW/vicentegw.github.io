@@ -1,15 +1,4 @@
----
-title: "Post: Notice"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - notice
----
-
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
-
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element.
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
@@ -66,3 +55,25 @@ Or you could skip the capture and stick with straight HTML.
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
+
+
+
+
+
+
+
+---
+title: "Post: Link"
+categories:
+  - Blog
+tags:
+  - link
+  - Post Formats
+link: https://github.com
+---
+
+This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+
+> And this is how a quote looks.
+
+Some [link](#) can also be shown.

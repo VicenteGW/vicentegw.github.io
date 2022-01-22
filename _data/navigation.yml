@@ -1,9 +1,9 @@
 main:
   - title: "Postagens"
     url: /postagens/
-  - title: "Categories"
-    url: /categories/
+  - title: "Currículo"
+    url: /curriculo/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Sobre"
+    url: /sobre/

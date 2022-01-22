@@ -3,5 +3,7 @@ main:
     url: /postagens/
   - title: "Currículo"
     url: /curriculo/
+  - title: "Tags"
+    url: /tags/
   - title: "Sobre"
     url: /sobre/

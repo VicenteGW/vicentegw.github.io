@@ -219,6 +219,7 @@ pt: &DEFAULT_PT
   comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
   comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
+  back_to_top                : "De volta ao topo"
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:

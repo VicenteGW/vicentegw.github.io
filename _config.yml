@@ -58,32 +58,38 @@ plugins:
 author:
   name   : "Vicente Gomes Wieth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Spo estou tentando construir algo bacana."
+  bio    : "Só estou tentando construir algo bacana."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/VicenteWieth"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/VicenteGW"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/vicentewieth"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/vicente.wieth/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/VicenteWieth"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/VicenteGW"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/vicentewieth"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/vicente.wieth/"
 
 defaults:
   # _posts

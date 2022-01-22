@@ -114,7 +114,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /postagens/
+  path: /categorias/
 tag_archive:
   type: liquid
   path: /tags/

@@ -1,5 +1,5 @@
 ---
-title: "Minha experiência com o Essencialismo"
+title: "Minha experiência com o essencialismo"
 #date:
 #last_modified_at:
 #excerpt_separator: "<!--more-->" #separador de resumos
@@ -12,3 +12,4 @@ tags:
 ---
 
 ![Essencialismo](/assets/images/energia.png)
+{: .full}

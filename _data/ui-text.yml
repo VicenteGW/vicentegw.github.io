@@ -220,7 +220,7 @@ pt: &DEFAULT_PT
   comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
   back_to_top                : "De volta ao topo"
-  January                    : "Janeiro"
+
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:

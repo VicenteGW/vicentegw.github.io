@@ -1,3 +1,14 @@
+
+
+https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/
+
+
+
+
+
+
+
+
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element.
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
